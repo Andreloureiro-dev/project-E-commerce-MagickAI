@@ -1,33 +1,34 @@
-# Projeto Magick IA
 
-Este projeto é um e-commerce fictício para venda de cartas colecionáveis de personagens mágicos, chamado Magick IA. O objetivo é apresentar uma loja virtual com filtros, listagem de produtos e integração com WhatsApp para simular uma experiência de compra.
+# Magick IA Project
 
-## Funcionalidades
+This project is a fictional e-commerce for selling collectible cards of magical characters, called Magick IA. The goal is to present a virtual store with filters, product listing, and WhatsApp integration to simulate a shopping experience.
 
-- Visualização de cartas colecionáveis com imagens, nome, categoria e preço.
-- Filtros por categoria e preço máximo para facilitar a busca.
-- Botão de compra que direciona para o WhatsApp com mensagem personalizada.
-- Layout responsivo, adaptando-se a diferentes tamanhos de tela (desktop e mobile).
-- Design moderno, com organização clara dos elementos e uso de imagens temáticas.
+## Features
 
-## Tecnologias Utilizadas
+- View collectible cards with images, name, category, and price.
+- Filter by category and maximum price to facilitate search.
+- Purchase button that redirects to WhatsApp with a personalized message.
+- Responsive layout, adapting to different screen sizes (desktop and mobile).
+- Modern design, with clear organization of elements and use of themed images.
 
-- **HTML5**: Estrutura da página.
-- **CSS3**: Estilização, responsividade e reset de estilos.
-- **JavaScript**: Interatividade para filtragem dos produtos.
-- **Imagens**: Assets das cartas e logo do Magick IA.
+## Technologies Used
 
-## Estrutura de Pastas
+- **HTML5**: Page structure.
+- **CSS3**: Styling, responsiveness, and style reset.
+- **JavaScript**: Interactivity for product filtering.
+- **Images**: Card assets and Magick IA logo.
 
-- `src/css`: Arquivos de estilos (reset, responsivo e principal).
-- `src/js`: Script principal para interatividade e filtros.
-- `src/imagens`: Imagens das cartas e logo.
-- `index.html`: Página principal do projeto.
+## Folder Structure
 
-## Como usar
+- `src/css`: Style files (reset, responsive, and main).
+- `src/js`: Main script for interactivity and filters.
+- `src/imagens`: Card and logo images.
+- `index.html`: Main project page.
 
-Basta abrir o arquivo `index.html` no navegador. Não é necessário nenhum servidor ou configuração adicional.
+## How to Use
 
-## Objetivo
+Just open the `index.html` file in your browser. No server or additional configuration is required.
 
-Este projeto foi desenvolvido para praticar habilidades de desenvolvimento web, organização de código e criação de interfaces interativas para portfólio.
+## Purpose
+
+This project was developed to practice web development skills, code organization, and creation of interactive interfaces for portfolio.
